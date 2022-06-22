@@ -5,12 +5,12 @@
     "autoload": {
         "psr-4": {
             "Megaport\\": "src/",
-            "Tests\\" : "tests/"
+            "Tests\\": "tests/"
         }
     },
     "require": {
         "php": "^7.1",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^6.5",
         "jms/serializer": "^3.2",
         "ext-json": "*"
     },
